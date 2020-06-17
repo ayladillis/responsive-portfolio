@@ -33,7 +33,7 @@ background-repeat: no-repeat; background-size: cover; background-position: cente
 
 ## Screenshots
  
-Inorder to format the Portfolio page correctly I had to screentshot the pictures I wanted off of Google Images then crop them into perfect squares and radjusted the size so the width was 640px and the height 640px as well. Finally I inserted them into the image tag of my Portfolio page. 
+Inorder to format the Portfolio page correctly I had to screentshot the pictures I wanted off of Google Images then crop them into perfect squares and re-djusted the size so the width was 640px and the height 640px as well. Finally I inserted them into the image tag of my Portfolio page. 
 
 <img src="screenshot-1.png" alt="screenshot of my code">
 
